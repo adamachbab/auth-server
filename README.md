@@ -120,3 +120,7 @@ Run tests without a local `.env` and with no server running on port 2230.
 ## Security
 
 See [SECURITY.md](SECURITY.md). Client-side checks can always be patched; the server is the authority for license validity.
+
+## License
+
+Released under the [MIT License](LICENSE).
