@@ -1,5 +1,17 @@
 # auth-server
 
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=220&section=header&text=auth-server&fontSize=64&fontColor=ffffff&desc=Device-bound%20license%20authentication&descSize=20&descAlignY=66&animation=fadeIn" alt="auth-server" width="100%">
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Node.js-20+-339933?logo=node.js&logoColor=white" alt="Node.js 20+">
+  <img src="https://img.shields.io/badge/C++-20-00599C?logo=c%2B%2B&logoColor=white" alt="C++20">
+  <img src="https://img.shields.io/badge/Discord-bot-5865F2?logo=discord&logoColor=white" alt="Discord bot">
+  <img src="https://img.shields.io/badge/platform-Windows-0078D6?logo=windows&logoColor=white" alt="Windows">
+  <img src="https://img.shields.io/badge/auth-ECDSA%20P--256-8A2BE2" alt="ECDSA P-256">
+</p>
+
 License key authentication server for native Windows applications, with device-bound proof of possession, a Discord bot for key management and reseller accounts.
 
 ## Features
